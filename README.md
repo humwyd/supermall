@@ -1,10 +1,11 @@
 # supermall
-![](https://github.com/humwyd/supermall/blob/master/img/01.png)
-https://github.com/humwyd/supermall/blob/master/img/02.png
-https://github.com/humwyd/supermall/blob/master/img/03.png
-https://github.com/humwyd/supermall/blob/master/img/04.png
-https://github.com/humwyd/supermall/blob/master/img/05.png
-https://github.com/humwyd/supermall/blob/master/img/06.png
+![](https://github.com/humwyd/supermall/blob/master/img/01.png #pic_center =100x100)
+![](https://github.com/humwyd/supermall/blob/master/img/02.png)
+![](https://github.com/humwyd/supermall/blob/master/img/03.png)
+![](https://github.com/humwyd/supermall/blob/master/img/04.png)
+![](https://github.com/humwyd/supermall/blob/master/img/05.png)
+![](https://github.com/humwyd/supermall/blob/master/img/06.png)
+
 ## Project setup
 ```
 yarn install
