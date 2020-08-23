@@ -10,7 +10,7 @@
 # supermall
 <img src="https://github.com/humwyd/supermall/blob/master/img/03.png" alt="drawing" width="200"/>
 
-# supermall
+# 推荐商品
 <img src="https://github.com/humwyd/supermall/blob/master/img/04.png" alt="drawing" width="200"/>
 
 # 下拉页面后自动加载更多商品信息
