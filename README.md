@@ -13,10 +13,10 @@
 # supermall
 <img src="https://github.com/humwyd/supermall/blob/master/img/04.png" alt="drawing" width="200"/>
 
-# supermall
+# 下拉页面后自动加载更多商品信息
 <img src="https://github.com/humwyd/supermall/blob/master/img/05.png" alt="drawing" width="200"/>
 
-# supermall
+# 监听当前滑动窗口到一定位置时，显示返回顶端按钮
 <img src="https://github.com/humwyd/supermall/blob/master/img/06.png" alt="drawing" width="200"/>
 
 
