@@ -3,10 +3,15 @@
 目前还在做，持续更新中
 # 主页面
 <img src="https://github.com/humwyd/supermall/blob/master/img/01.png" alt="drawing" width="200"/>
+# 轮播图
 <img src="https://github.com/humwyd/supermall/blob/master/img/02.png" alt="drawing" width="200"/>
+# 轮播图
 <img src="https://github.com/humwyd/supermall/blob/master/img/03.png" alt="drawing" width="200"/>
+# 轮播图
 <img src="https://github.com/humwyd/supermall/blob/master/img/04.png" alt="drawing" width="200"/>
+# 轮播图
 <img src="https://github.com/humwyd/supermall/blob/master/img/05.png" alt="drawing" width="200"/>
+# 轮播图
 <img src="https://github.com/humwyd/supermall/blob/master/img/06.png" alt="drawing" width="200"/>
 
 
